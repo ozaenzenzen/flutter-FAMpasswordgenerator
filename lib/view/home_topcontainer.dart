@@ -42,7 +42,7 @@ class TopContainer extends StatelessWidget {
               "FAM Password \nGenerator",
               style: new TextStyle(
                 color: Colors.white,
-                fontSize: consHeight * 0.065,
+                fontSize: consHeight * 0.055,
                 fontFamily: "SF Text",
                 fontWeight: FontWeight.w800,
               ),
@@ -57,7 +57,7 @@ class TopContainer extends StatelessWidget {
               "Make your own password with password generator",
               style: new TextStyle(
                 color: Colors.white,
-                fontSize: consHeight * 0.025,
+                fontSize: consHeight * 0.020,
                 fontFamily: "SF Text",
                 // fontWeight: FontWeight.w800,
               ),

@@ -88,7 +88,7 @@ class _HomeState extends State<Home> {
                   "Generate it!",
                   style: new TextStyle(
                     color: Colors.white,
-                    fontSize: consHeight * 0.025,
+                    fontSize: consHeight * 0.015,
                     fontFamily: "SF Text",
                     // fontWeight: FontWeight.w800,
                   ),
