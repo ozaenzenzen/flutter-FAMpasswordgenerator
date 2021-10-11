@@ -67,6 +67,8 @@ class _HomeState extends State<Home> {
               child: new ElevatedButton(
                 onPressed: () {
                   setState(() {
+
+                    FocusScope.of(context).unfocus();
                     if (controllerInput.isOn) {
                       controllerInput.validate = false;
 
